@@ -12,4 +12,17 @@ This repo will contain various jupyter notebooks that cover concepts at a high-l
 
 ## Topics
 
+* Basic Regression Topics
+  * Estimators & Inference
+  * Model Assumptions
+  * Assumptions 
+  * Analysis of Variance (ANOVA)
 * Generalized Linear Models
+  * Standard Linear Regression
+  * Logistic Regression
+  * Poisson Regression
+* Variable Selection
+  * Bias-Variance Tradeoff
+  * Prediction Risk Estimates
+  * Naive Variable Selection
+  * Regularized Regression
