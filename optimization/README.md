@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Deterministic Optimization
 
 Optimization theory lets us formulate programs with variables to minimize (or maximize) functions subject to constraints. 

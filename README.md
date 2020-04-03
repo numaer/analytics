@@ -6,3 +6,4 @@ Reference repository for analytics related work.
 
 * Regression Analysis
 * Optimization
+* Simulation

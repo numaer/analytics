@@ -26,4 +26,3 @@ This repo will contain various jupyter notebooks that cover concepts at a high-l
   * Prediction Risk Estimates
   * Naive Variable Selection
   * Regularized Regression
->>>>>>> regression/master
