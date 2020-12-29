@@ -8,7 +8,14 @@ Reference repository for analytics & engineering related work.
 * Optimization
 * Simulation
 * Bayesian Statistics
-* Computational Analytics
+* Machine Learning
+* Time Series Analysis
+* High-Dimensional Data Analytics
+* Nonparametric Data Analysis
+* Design of Experiments
+* Massive Graph Analytics
+* Monte Carlo Methods
+* Probabilistic Models
 
 ## Engineering Topics
 
@@ -21,3 +28,4 @@ Reference repository for analytics & engineering related work.
 * Algorithms
 * Design Patterns
 * Databases
+* High Performance Computing
