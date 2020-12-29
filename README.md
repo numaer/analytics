@@ -1,11 +1,23 @@
-# Analytics
+# Handbook
 
-Reference repository for analytics related work.
+Reference repository for analytics & engineering related work.
 
-## Topics
+## Analytics Topics
 
 * Regression Analysis
 * Optimization
 * Simulation
 * Bayesian Statistics
 * Computational Analytics
+
+## Engineering Topics
+
+* Software Engineering
+* Compiler Design
+* Operating Systems
+* Cloud Computing
+* Analysis of Algorithms
+* Data Structures
+* Algorithms
+* Design Patterns
+* Databases
